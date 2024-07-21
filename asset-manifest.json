@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/toy-nomflix/static/js/main.c780ae08.js",
+    "index.html": "/toy-nomflix/index.html",
+    "main.c780ae08.js.map": "/toy-nomflix/static/js/main.c780ae08.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c780ae08.js"
+  ]
+}
